@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/squireaintready/TODO-APP.git/static/css/main.fa1baec3.chunk.css",
-    "main.js": "/squireaintready/TODO-APP.git/static/js/main.aae18548.chunk.js",
-    "main.js.map": "/squireaintready/TODO-APP.git/static/js/main.aae18548.chunk.js.map",
-    "runtime-main.js": "/squireaintready/TODO-APP.git/static/js/runtime-main.c85bf1f5.js",
-    "runtime-main.js.map": "/squireaintready/TODO-APP.git/static/js/runtime-main.c85bf1f5.js.map",
-    "static/js/2.528c4e83.chunk.js": "/squireaintready/TODO-APP.git/static/js/2.528c4e83.chunk.js",
-    "static/js/2.528c4e83.chunk.js.map": "/squireaintready/TODO-APP.git/static/js/2.528c4e83.chunk.js.map",
-    "index.html": "/squireaintready/TODO-APP.git/index.html",
-    "precache-manifest.bb2775ba0caf2f1ea52995b915e4520c.js": "/squireaintready/TODO-APP.git/precache-manifest.bb2775ba0caf2f1ea52995b915e4520c.js",
-    "service-worker.js": "/squireaintready/TODO-APP.git/service-worker.js",
-    "static/css/main.fa1baec3.chunk.css.map": "/squireaintready/TODO-APP.git/static/css/main.fa1baec3.chunk.css.map",
-    "static/js/2.528c4e83.chunk.js.LICENSE.txt": "/squireaintready/TODO-APP.git/static/js/2.528c4e83.chunk.js.LICENSE.txt"
+    "main.css": "/TODO-APP.git/static/css/main.fa1baec3.chunk.css",
+    "main.js": "/TODO-APP.git/static/js/main.2f44ce02.chunk.js",
+    "main.js.map": "/TODO-APP.git/static/js/main.2f44ce02.chunk.js.map",
+    "runtime-main.js": "/TODO-APP.git/static/js/runtime-main.ec8941db.js",
+    "runtime-main.js.map": "/TODO-APP.git/static/js/runtime-main.ec8941db.js.map",
+    "static/js/2.528c4e83.chunk.js": "/TODO-APP.git/static/js/2.528c4e83.chunk.js",
+    "static/js/2.528c4e83.chunk.js.map": "/TODO-APP.git/static/js/2.528c4e83.chunk.js.map",
+    "index.html": "/TODO-APP.git/index.html",
+    "precache-manifest.f7db5d026104d8cea98b484a798b472e.js": "/TODO-APP.git/precache-manifest.f7db5d026104d8cea98b484a798b472e.js",
+    "service-worker.js": "/TODO-APP.git/service-worker.js",
+    "static/css/main.fa1baec3.chunk.css.map": "/TODO-APP.git/static/css/main.fa1baec3.chunk.css.map",
+    "static/js/2.528c4e83.chunk.js.LICENSE.txt": "/TODO-APP.git/static/js/2.528c4e83.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c85bf1f5.js",
+    "static/js/runtime-main.ec8941db.js",
     "static/js/2.528c4e83.chunk.js",
     "static/css/main.fa1baec3.chunk.css",
-    "static/js/main.aae18548.chunk.js"
+    "static/js/main.2f44ce02.chunk.js"
   ]
 }
