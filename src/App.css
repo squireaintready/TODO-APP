@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  margin: 0;
+  padding:0;
+  display:flex;
+  height:100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color:#AAAAAA;
+}
+
+body,
+html,
+#root{
+  color:'white';
+  height:100%;
+}
+
+.todo-form{
+  color:'white';
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+li{
+  text-align: initial;
+}
+
+.MuiInputBase-input:focus{
+  outline: 1
+}
